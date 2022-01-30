@@ -253,13 +253,11 @@ html{
     }
 }
 
-@media screen and (max-width:370px){
-    .numbers .number a{
-        font-size: 0.75rem;
-    }
-}
 
 @media screen and (max-width:300px){
+    .upper{
+        padding-left: 1.5rem;
+    }
     .upper h1{
         font-size: 1.8rem;
     }
